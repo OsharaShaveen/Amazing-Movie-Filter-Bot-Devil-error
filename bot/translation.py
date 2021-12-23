@@ -8,9 +8,9 @@ class Translation(object):
 <i>Am Just A Advance Auto Filter Bot....🙂
 
 Just Add Me To Your Group And Channel And Connect Them And See My Pevers 🔥
-And Respect My Master, He Is [WhiteDevil](t.me/WhiteDevilOp999)
 
-For More Details Click Help Button Below..
+
+For More Details Click This UserName Below..
 @WhiteDevilOp999
 </i>"""    
     
