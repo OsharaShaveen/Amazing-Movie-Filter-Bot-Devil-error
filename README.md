@@ -1,3 +1,7 @@
+<p align="center">
+
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+Amazing+Movie &font=Fira%20Code&center=true&width=380&height=50">
+
 # Movie-Filter-Bot
 
 <a href="https://heroku.com/deploy?template=https://github.com/OsharaShaveen/Amazing-Movie-Filter-Bot">
